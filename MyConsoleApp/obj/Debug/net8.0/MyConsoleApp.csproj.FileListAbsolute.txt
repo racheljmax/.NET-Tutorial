@@ -1,0 +1,14 @@
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\rache\OneDrive - The Ohio State University\MIS4630\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
